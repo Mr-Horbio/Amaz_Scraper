@@ -1,14 +1,13 @@
-# Amazon_scraper
+# Garuda (Amazon_scraper)
 Amazon.in Product Data Scraper: Effortless product name based Scraping
+![Screenshot 2024-04-22 012817](https://github.com/Mr-Horbio/Amazon_Scraper/assets/89149725/49e460ae-b00b-4c65-baa1-dcee2ee37471)
 
 Description:
-The Amazon.in Product Data Scraper is a sophisticated tool meticulously crafted to streamline the process of extracting product data exclusively from Amazon India (amazon.in) by simply pasting the product URL. Engineered with professionalism and precision, this tool caters to the needs of researchers, entrepreneurs, and analysts seeking comprehensive insights into the vast array of products available on the Amazon India platform.
+The Amazon.in Product Data Scraper is a sophisticated tool meticulously crafted to streamline the process of extracting product data exclusively from Amazon India (amazon.in) by simply writing product name. Engineered with professionalism and precision, this tool caters to the needs of researchers, entrepreneurs, and analysts seeking comprehensive insights into the vast array of products available on the Amazon India platform.
 
 Key Features:
 
-1. **Seamless URL-Based Scraping**: Harness the power of URL-based scraping, eliminating the need for complex setup or manual data entry. Simply paste the product URL, and let the scraper handle the rest.
-
-2. **Comprehensive Data Extraction**: Extract a wealth of product data including title, price, ratings.
+1. **Comprehensive Data Extraction**: Extract a wealth of product data including title, price, ratings.
 
 3. **Robust Data Validation**: Ensure data accuracy and integrity with robust validation mechanisms, mitigating potential errors or inconsistencies commonly encountered in web scraping endeavors.
 
