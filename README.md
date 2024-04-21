@@ -1,5 +1,5 @@
-# Amaz_Scraper
-Title: Amazon.in Product Data Scraper: Effortless URL-Based Scraping
+# Amazon_scraper
+Amazon.in Product Data Scraper: Effortless product name based Scraping
 
 Description:
 The Amazon.in Product Data Scraper is a sophisticated tool meticulously crafted to streamline the process of extracting product data exclusively from Amazon India (amazon.in) by simply pasting the product URL. Engineered with professionalism and precision, this tool caters to the needs of researchers, entrepreneurs, and analysts seeking comprehensive insights into the vast array of products available on the Amazon India platform.
